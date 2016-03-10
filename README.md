@@ -14,18 +14,43 @@ I'm reviewing material I have in my bookmark manager and listing them here as I 
 ### What are the most important JavaScript concepts in no order?
 Most of these concepts will overlap.
 + Functional programming
-+ What is the event loop?
++ What is the event loop? The asynchronous nature of JavaScript
 + Closure
 + The prototype object
++ Inheritance
 + Build tools
 + REST API design
++ DOM: HTML / CSS / Bootstrap / jQuery
++ Search Engine Optimization
++ MongoDB, Express, AngularJS, Node.js
 + Regular expressions
 + Testing
++ Databases
++ Problem solving process
 
 ## Functional programming
-Mattias Petter Johansson puts the **fun** in functional programming. This is also a primer on Array functions, i.g. map, reduce.
+Mattias Petter Johansson puts the **fun** in functional programming. This is also a primer on Array functions, i.g. map, reduce, filter.
 + [Higher-order functions - Part 1 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk)
 
+## What is the event loop? The asynchronous nature of JavaScript
++ [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+## REST API design
++ [json:api](http://jsonapi.org/)
++ [Drupal RESTful](https://github.com/RESTful-Drupal/restful) (It works in Express like in Drupal)
++ [Drupal RESTful video tutorials](https://www.youtube.com/playlist?list=PLZOQ_ZMpYrZv8_c7jd_CkO_93-DnyVFY5)
+
+## Search Engine Optimization
++ [Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
++ [Structured Data](https://developers.google.com/structured-data/)
+
+## MongoDB, Express, AngularJS, Node.js
+#### Node.js
++ [What is Node.js?](http://stackoverflow.com/a/6782438/494664)
+
+## Regular expressions
++ [RegexOne](http://regexone.com/)
++ [Regex Crossword](https://regexcrossword.com/)
 
 
 
