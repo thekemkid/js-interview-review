@@ -2,7 +2,7 @@
 
 Often there are threads posted around the internet about how to answer the top 10 gotcha JavaScript developer interview questions. Studying these the day before an interview is pointless like pulling an all-nighter studying for the SATs in 10th grade. We know what we know and these test measure the culmination over the years of that knowledge. Nonetheless, I'm putting gether a resource for review that covers some of the important concepts a JavaScript developer should know.
 
-I'm reviewing material and listing them here as I do.
+I'm reviewing material I have in my bookmark manager and listing them here as I do.
 
 ### Examples of blog posts about Javascript interview questions
 + [Ten questions I’ve been asked, most more than once, over six technical JavaScript / Front-end Engineer job interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once)
@@ -11,7 +11,20 @@ I'm reviewing material and listing them here as I do.
 + [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.1eaqwtkhc)
 + [Javascript Interview Questions](http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm)
 
-### Which concepts do I believe are most imporant. 
+### What are the most important JavaScript concepts in no order?
+Most of these concepts will overlap.
++ Functional programming
++ What is the event loop?
++ Closure
++ The prototype object
++ Build tools
++ REST API design
++ Regular expressions
++ Testing
+
+## Functional programming
+Mattias Petter Johansson puts the **fun** in functional programming. This is also a primer on Array functions, i.g. map, reduce.
++ [Higher-order functions - Part 1 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk)
 
 
 
