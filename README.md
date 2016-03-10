@@ -69,11 +69,13 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [Regex Crossword](https://regexcrossword.com/)
 
 ## Testing
+
 #### Mocha, Chai, Sinon.JS
 + [Testing Javascript with Mocha, Chai, and Sinon](http://www.maori.geek.nz/introduction_to_testing_node_js_with_mocha_chai_and_sinon/)
 + [Test automation](http://www.zsoltnagy.eu/category/test-automation/)
 + [Mocking Requests with Mocha, Chai and Sinon](http://robdodson.me/mocking-requests-with-mocha-chai-and-sinon/)
 + [Sinon Spies vs. Stubs](http://jaketrent.com/post/sinon-spies-vs-stubs/)
+
 #### AngularJS, Karma, Jasmine
 + [Mocking Dependencies in AngularJS Tests](http://www.sitepoint.com/mocking-dependencies-angularjs-tests/)
 + [Unit Testing in AngularJS: Services, Controllers & Providers](http://www.sitepoint.com/unit-testing-angularjs-services-controllers-providers/)
