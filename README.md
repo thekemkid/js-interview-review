@@ -15,8 +15,8 @@ I'm reviewing material I have in my bookmark manager and listing them here as I 
 Most of these concepts will overlap.
 + Functional programming
 + What is the event loop? The asynchronous nature of JavaScript
-+ Closure
-+ The prototype object
++ Javascript. The core. Scope chain, prototype chain, scope, closure, constructor, and this.
++ Apply and call
 + Inheritance
 + Build tools
 + REST API design
@@ -34,6 +34,19 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 
 ## What is the event loop? The asynchronous nature of JavaScript
 + [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
++ [Promises - Part 8 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=2d7s3spWAzo)
+
+## Javascript. The core. Scope chain, prototype chain, scope, closure, constructor, and this.
++ [JavaScript. The core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)
+    + [Execution contexts](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/)
+    + [Variable object](http://dmitrysoshnikov.com/ecmascript/chapter-2-variable-object/)
+    + [this](http://dmitrysoshnikov.com/ecmascript/chapter-3-this/)
+    + [Scope chain](http://dmitrysoshnikov.com/ecmascript/chapter-4-scope-chain/)
+    + [Functions](http://dmitrysoshnikov.com/ecmascript/chapter-5-functions/)
+    + [Closures](http://dmitrysoshnikov.com/ecmascript/chapter-6-closures/)
++ [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+    + [Scope & closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+    + [this & object prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes)
 
 ## REST API design
 + [json:api](http://jsonapi.org/)
@@ -51,6 +64,9 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 ## Regular expressions
 + [RegexOne](http://regexone.com/)
 + [Regex Crossword](https://regexcrossword.com/)
+
+## Testing
+
 
 
 
