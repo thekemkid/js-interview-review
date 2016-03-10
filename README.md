@@ -36,7 +36,7 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 + [Promises - Part 8 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=2d7s3spWAzo)
 
-## Javascript. The core. Scope chain, prototype chain, scope, closure, constructor, and this.
+## Javascript. The core. Scope chain, prototype chain, closure, constructor, and this.
 + [JavaScript. The core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)
     + [Execution contexts](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/)
     + [Variable object](http://dmitrysoshnikov.com/ecmascript/chapter-2-variable-object/)
@@ -58,6 +58,9 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [Structured Data](https://developers.google.com/structured-data/)
 
 ## MongoDB, Express, AngularJS, Node.js
+#### AngularJS
++ [AngularJS Developer Guide](https://docs.angularjs.org/guide)
++ [Understanding NgModelController](http://radify.io/blog/understanding-ngmodelcontroller-by-example-part-1/)
 #### Node.js
 + [What is Node.js?](http://stackoverflow.com/a/6782438/494664)
 
@@ -66,6 +69,17 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [Regex Crossword](https://regexcrossword.com/)
 
 ## Testing
+#### Mocha, Chai, Sinon.JS
++ [Testing Javascript with Mocha, Chai, and Sinon](http://www.maori.geek.nz/introduction_to_testing_node_js_with_mocha_chai_and_sinon/)
++ [Test automation](http://www.zsoltnagy.eu/category/test-automation/)
++ [Mocking Requests with Mocha, Chai and Sinon](http://robdodson.me/mocking-requests-with-mocha-chai-and-sinon/)
++ [Sinon Spies vs. Stubs](http://jaketrent.com/post/sinon-spies-vs-stubs/)
+#### AngularJS, Karma, Jasmine
++ [Mocking Dependencies in AngularJS Tests](http://www.sitepoint.com/mocking-dependencies-angularjs-tests/)
++ [Unit Testing in AngularJS: Services, Controllers & Providers](http://www.sitepoint.com/unit-testing-angularjs-services-controllers-providers/)
++ [AngularJS Testing Tips: Testing Directives](http://www.sitepoint.com/angular-testing-tips-testing-directives/)
++ [AngularJS Testing: Bootstrap Blocks, Routes, Events, and Animations](http://www.sitepoint.com/angularjs-testing-tips-bootstrap-blocks-routes-events-animations/)
+
 
 
 
