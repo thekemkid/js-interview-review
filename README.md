@@ -2,7 +2,7 @@
 
 Often there are threads posted around the internet about how to answer the top 10 gotcha JavaScript developer interview questions. Studying these the day before an interview is pointless like pulling an all-nighter studying for the SATs in 10th grade. We know what we know and these test measure the culmination over the years of that knowledge. Nonetheless, I'm putting gether a resource for review that covers some of the important concepts a JavaScript developer should know.
 
-I'm reviewing material I have in my bookmark manager and listing them here as I do.
+I'm reviewing material I have in my bookmark manager and listing it here.
 
 ### Examples of blog posts about Javascript interview questions
 + [Ten questions I’ve been asked, most more than once, over six technical JavaScript / Front-end Engineer job interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once)
@@ -48,10 +48,11 @@ A list of the more common module choices I use
 ## Part 1
 ### Functional programming
 Mattias Petter Johansson puts the **fun** in functional programming. This is also a primer on Array functions, i.g. map, reduce, filter.
-+ [Higher-order functions - Part 1 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk)
++ [Functional programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
 ### What is the event loop? The asynchronous nature of JavaScript
 + [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
++ [Promises in Detail](http://dailyjs.com/2014/02/20/promises-in-detail/)
 + [Promises - Part 8 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=2d7s3spWAzo)
 
 ### Javascript. The core. Scope chain, prototype chain, closure, constructor, and this.
