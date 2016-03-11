@@ -17,11 +17,10 @@ Most of these concepts will overlap. Here is a catagorized list of of JavaScript
 + Functional programming
 + What is the event loop? The asynchronous nature of JavaScript
 + Javascript. The core. Scope chain, prototype chain, scope, closure, constructor, and this.
-+ Apply and call
 + Design patterns and inheritance
 + Build tools
 + REST API design
-+ DOM: HTML / CSS / Bootstrap / jQuery
++ DOM: HTML / CSS / Twitter Bootstrap / jQuery
 + Search Engine Optimization
 + MongoDB, Express, AngularJS, Node.js
 + Regular expressions
@@ -32,26 +31,29 @@ Most of these concepts will overlap. Here is a catagorized list of of JavaScript
 #### Part 2. The stacks
 + Node
 + Angular
-+ Build tools
++ Build tools and testing
 + Drupal (Should be included here)
 + Development environment
 
-#### Part 3. The tools I want to be using in the future.
+#### Part 3. Tools I plan to use in the future
 + Koa
 + React
++ Angular 2
 + Native Script
 + Redis
 + C++
++ ES6
 
-## Functional programming
+## Part 1
+### Functional programming
 Mattias Petter Johansson puts the **fun** in functional programming. This is also a primer on Array functions, i.g. map, reduce, filter.
 + [Higher-order functions - Part 1 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk)
 
-## What is the event loop? The asynchronous nature of JavaScript
+### What is the event loop? The asynchronous nature of JavaScript
 + [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 + [Promises - Part 8 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=2d7s3spWAzo)
 
-## Javascript. The core. Scope chain, prototype chain, closure, constructor, and this.
+### Javascript. The core. Scope chain, prototype chain, closure, constructor, and this.
 + [JavaScript. The core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)
     + [Execution contexts](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/)
     + [Variable object](http://dmitrysoshnikov.com/ecmascript/chapter-2-variable-object/)
@@ -63,16 +65,16 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
     + [Scope & closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
     + [this & object prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes)
 
-## REST API design
+### REST API design
 + [json:api](http://jsonapi.org/)
 + [Drupal RESTful](https://github.com/RESTful-Drupal/restful) (It works in Express like in Drupal)
 + [Drupal RESTful video tutorials](https://www.youtube.com/playlist?list=PLZOQ_ZMpYrZv8_c7jd_CkO_93-DnyVFY5)
 
-## Search Engine Optimization
+### Search Engine Optimization
 + [Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 + [Structured Data](https://developers.google.com/structured-data/)
 
-## MongoDB, Express, AngularJS, Node.js
+### MongoDB, Express, AngularJS, Node.js
 
 #### MongoDB
 + [Aggregation Pipeline](https://docs.mongodb.org/manual/core/aggregation-pipeline/)
@@ -86,11 +88,11 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [What is Node.js?](http://stackoverflow.com/a/6782438/494664)
 + [lodash](https://lodash.com/docs)
 
-## Regular expressions
+### Regular expressions
 + [RegexOne](http://regexone.com/)
 + [Regex Crossword](https://regexcrossword.com/)
 
-## Testing
+### Testing
 
 #### Mocha, Chai, Sinon
 + [Testing Javascript with Mocha, Chai, and Sinon](http://www.maori.geek.nz/introduction_to_testing_node_js_with_mocha_chai_and_sinon/)
@@ -104,10 +106,32 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [AngularJS Testing Tips: Testing Directives](http://www.sitepoint.com/angular-testing-tips-testing-directives/)
 + [AngularJS Testing: Bootstrap Blocks, Routes, Events, and Animations](http://www.sitepoint.com/angularjs-testing-tips-bootstrap-blocks-routes-events-animations/)
 
-## Problem solving process
+### Problem solving process
 + [Boyd's Law of Iteration](http://blog.codinghorror.com/boyds-law-of-iteration/)
 
+## Part 2: The stacks
+### Node
++ Node
++ Express
++ MongoDB
++ Mongoose
++ Lodash
++ Async
++ Jade
++ Body-parser
++ Multer
++ Nightmare
++ Request
++ Lwip
 
-
-
-
+### AngularJS
++ Angular
++ Angular UI
++ jQuery
++ Angular bootstrap
++ Angular smart table
++ Angular ui router
++ Bootstrap sass
++ Angular file upload
++ Angular tags input
++ Angular perfect scrollbar
