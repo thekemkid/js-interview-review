@@ -12,12 +12,13 @@ I'm reviewing material I have in my bookmark manager and listing them here as I 
 + [Javascript Interview Questions](http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm)
 
 ### What are the most important JavaScript concepts in no order?
-Most of these concepts will overlap.
+#### Part 1. Resources, tutorials, and information
+Most of these concepts will overlap. Here is a catagorized list of of JavaScript develoment resources
 + Functional programming
 + What is the event loop? The asynchronous nature of JavaScript
 + Javascript. The core. Scope chain, prototype chain, scope, closure, constructor, and this.
 + Apply and call
-+ Inheritance
++ Design patterns and inheritance
 + Build tools
 + REST API design
 + DOM: HTML / CSS / Bootstrap / jQuery
@@ -27,6 +28,20 @@ Most of these concepts will overlap.
 + Testing
 + Databases
 + Problem solving process
+
+#### Part 2. The stacks
++ Node
++ Angular
++ Build tools
++ Drupal (Should be included here)
++ Development environment
+
+#### Part 3. The tools I want to be using in the future.
++ Koa
++ React
++ Native Script
++ Redis
++ C++
 
 ## Functional programming
 Mattias Petter Johansson puts the **fun** in functional programming. This is also a primer on Array functions, i.g. map, reduce, filter.
@@ -58,11 +73,18 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [Structured Data](https://developers.google.com/structured-data/)
 
 ## MongoDB, Express, AngularJS, Node.js
+
+#### MongoDB
++ [Aggregation Pipeline](https://docs.mongodb.org/manual/core/aggregation-pipeline/)
++ [mongoose.js documentation](http://mongoosejs.com/docs/guide.html)
+
 #### AngularJS
 + [AngularJS Developer Guide](https://docs.angularjs.org/guide)
 + [Understanding NgModelController](http://radify.io/blog/understanding-ngmodelcontroller-by-example-part-1/)
+
 #### Node.js
 + [What is Node.js?](http://stackoverflow.com/a/6782438/494664)
++ [lodash](https://lodash.com/docs)
 
 ## Regular expressions
 + [RegexOne](http://regexone.com/)
@@ -70,7 +92,7 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 
 ## Testing
 
-#### Mocha, Chai, Sinon.JS
+#### Mocha, Chai, Sinon
 + [Testing Javascript with Mocha, Chai, and Sinon](http://www.maori.geek.nz/introduction_to_testing_node_js_with_mocha_chai_and_sinon/)
 + [Test automation](http://www.zsoltnagy.eu/category/test-automation/)
 + [Mocking Requests with Mocha, Chai and Sinon](http://robdodson.me/mocking-requests-with-mocha-chai-and-sinon/)
@@ -81,6 +103,9 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [Unit Testing in AngularJS: Services, Controllers & Providers](http://www.sitepoint.com/unit-testing-angularjs-services-controllers-providers/)
 + [AngularJS Testing Tips: Testing Directives](http://www.sitepoint.com/angular-testing-tips-testing-directives/)
 + [AngularJS Testing: Bootstrap Blocks, Routes, Events, and Animations](http://www.sitepoint.com/angularjs-testing-tips-bootstrap-blocks-routes-events-animations/)
+
+## Problem solving process
++ [Boyd's Law of Iteration](http://blog.codinghorror.com/boyds-law-of-iteration/)
 
 
 
