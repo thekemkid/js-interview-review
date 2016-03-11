@@ -29,6 +29,7 @@ Most of these concepts will overlap. Here is a catagorized list of of JavaScript
 + Problem solving process
 
 #### Part 2. The stacks
+A list of the more common module choices I use
 + Node
 + Angular
 + Build tools and testing
@@ -118,7 +119,6 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + Lodash
 + Async
 + Jade
-+ Body-parser
 + Multer
 + Nightmare
 + Request
@@ -135,3 +135,65 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + Angular file upload
 + Angular tags input
 + Angular perfect scrollbar
++ Moment
+
+### Build tools and testing
++ Bower
++ Grunt
++ Grunt angular templates
++ Grunt concat
++ Grunt copy
++ Grunt cssmin
++ Grunt uglify
++ Grunt watch
++ Grunt env
++ Grunt karma
++ Grunt injector
++ Grunt mocha test
++ Grunt sass
++ Grunt usemin
++ Grunt wire dependencies
++ Jasmine
++ Karma
++ Mocha
++ Sinon
++ Chia
++ Supertest
+
+### Drupal
++ Address field
++ Admin menu
++ Auto entity label
++ Backup and migrate
++ Context
++ Date
++ Devel
++ Entity
++ Entity reference
++ Entity reference prepopulate
++ Entity reference view widget
++ File Entity
++ File field paths
++ Geocoder
++ Geofield
++ Geophp
++ Google analytics
++ Image chache token
++ Libraries
++ Media
++ Metatag
++ Pathauto
++ References dialog
++ Drupal RESTful
++ Token
++ Views
++ XML sitemap
++ Twitter Bootstrap Theme
+
+### Development environment
++ Ubuntu 14.14
++ JetBrains WebStorm
++ JetBrains PhpStorm
++ Holistic Solutions Drupal Hosting
++ Heroku
++ Git
