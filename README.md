@@ -66,6 +66,10 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
     + [Scope & closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
     + [this & object prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes)
 
+### Design patterns and inheritance
++ [You Don't Know JS: Mixing (Up) "Class" Objects](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch4.md)
++ [Essential JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
 ### REST API design
 + [json:api](http://jsonapi.org/)
 + [Drupal RESTful](https://github.com/RESTful-Drupal/restful) (It works in Express like in Drupal)
@@ -87,7 +91,6 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 
 #### Node.js
 + [What is Node.js?](http://stackoverflow.com/a/6782438/494664)
-+ [lodash](https://lodash.com/docs)
 
 ### Regular expressions
 + [RegexOne](http://regexone.com/)
@@ -183,6 +186,7 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + Media
 + Metatag
 + Pathauto
++ Openlayers
 + References dialog
 + Drupal RESTful
 + Token
@@ -197,3 +201,6 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + Holistic Solutions Drupal Hosting
 + Heroku
 + Git
+
+
+
