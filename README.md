@@ -12,8 +12,8 @@ I'm reviewing material I have in my bookmark manager and listing it here.
 + [Javascript Interview Questions](http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm)
 
 ### What are the most important JavaScript concepts in no order?
-#### Part 1. Resources, tutorials, and information
 Most of these concepts will overlap. Here is a catagorized list of of JavaScript develoment resources
+
 + Functional programming
 + What is the event loop? The asynchronous nature of JavaScript
 + Javascript. The core. Scope chain, prototype chain, scope, closure, constructor, and this.
@@ -28,24 +28,6 @@ Most of these concepts will overlap. Here is a catagorized list of of JavaScript
 + Databases
 + Problem solving process
 
-#### Part 2. The stacks
-A list of the more common module choices I use
-+ Node
-+ Angular
-+ Build tools and testing
-+ Drupal (Should be included here)
-+ Development environment
-
-#### Part 3. Tools I plan to use in the future
-+ Koa
-+ React
-+ Angular 2
-+ Native Script
-+ Redis
-+ C++
-+ ES6
-
-## Part 1
 ### Functional programming
 Mattias Petter Johansson puts the **fun** in functional programming. This is also a primer on Array functions, i.g. map, reduce, filter.
 + [Functional programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
@@ -113,95 +95,3 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 
 ### Problem solving process
 + [Boyd's Law of Iteration](http://blog.codinghorror.com/boyds-law-of-iteration/)
-
-## Part 2: The stacks
-### Node
-+ Node
-+ Express
-+ MongoDB
-+ Mongoose
-+ Lodash
-+ Async
-+ Jade
-+ Multer
-+ Nightmare
-+ Request
-+ Lwip
-
-### AngularJS
-+ Angular
-+ Angular UI
-+ jQuery
-+ Angular bootstrap
-+ Angular smart table
-+ Angular ui router
-+ Bootstrap sass
-+ Angular file upload
-+ Angular tags input
-+ Angular perfect scrollbar
-+ Moment
-
-### Build tools and testing
-+ Bower
-+ Grunt
-+ Grunt angular templates
-+ Grunt concat
-+ Grunt copy
-+ Grunt cssmin
-+ Grunt uglify
-+ Grunt watch
-+ Grunt env
-+ Grunt karma
-+ Grunt injector
-+ Grunt mocha test
-+ Grunt sass
-+ Grunt usemin
-+ Grunt wire dependencies
-+ Jasmine
-+ Karma
-+ Mocha
-+ Sinon
-+ Chia
-+ Supertest
-
-### Drupal
-+ Address field
-+ Admin menu
-+ Auto entity label
-+ Backup and migrate
-+ Context
-+ Date
-+ Devel
-+ Entity
-+ Entity reference
-+ Entity reference prepopulate
-+ Entity reference view widget
-+ File Entity
-+ File field paths
-+ Geocoder
-+ Geofield
-+ Geophp
-+ Google analytics
-+ Image chache token
-+ Libraries
-+ Media
-+ Metatag
-+ Pathauto
-+ Openlayers
-+ References dialog
-+ Drupal RESTful
-+ Token
-+ Views
-+ XML sitemap
-+ Twitter Bootstrap Theme
-
-### Development environment
-+ Ubuntu 14.14
-+ JetBrains WebStorm
-+ JetBrains PhpStorm
-+ Holistic Solutions Drupal Hosting
-+ Heroku
-+ Git
-
-
-
