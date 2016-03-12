@@ -58,6 +58,9 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [Drupal RESTful](https://github.com/RESTful-Drupal/restful) (It works in Express like in Drupal)
 + [Drupal RESTful video tutorials](https://www.youtube.com/playlist?list=PLZOQ_ZMpYrZv8_c7jd_CkO_93-DnyVFY5)
 
+### DOM: HTML / CSS / Twitter Bootstrap / jQuery
++ [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+
 ### Search Engine Optimization
 + [Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 + [Structured Data](https://developers.google.com/structured-data/)
