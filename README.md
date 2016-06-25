@@ -55,6 +55,8 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 
 ### REST API design
 + [json:api](http://jsonapi.org/)
++ [Swagger RESTful API Documentation](http://swagger.io/specification/)
++ [Stripe API](https://stripe.com/docs/api)
 + [Drupal RESTful](https://github.com/RESTful-Drupal/restful) (It works in Express like in Drupal)
 + [Drupal RESTful video tutorials](https://www.youtube.com/playlist?list=PLZOQ_ZMpYrZv8_c7jd_CkO_93-DnyVFY5)
 
