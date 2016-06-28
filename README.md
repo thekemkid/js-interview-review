@@ -101,3 +101,6 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 
 ### Problem solving process
 + [Boyd's Law of Iteration](http://blog.codinghorror.com/boyds-law-of-iteration/)
+
+### Perf
++ [Optimization Killers (V8/Node.js)](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
