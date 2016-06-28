@@ -36,6 +36,7 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 + [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 + [Promises in Detail](http://dailyjs.com/2014/02/20/promises-in-detail/)
 + [Promises - Part 8 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=2d7s3spWAzo)
++ [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 
 ### Javascript. The core. Scope chain, prototype chain, closure, constructor, and this.
 + [JavaScript. The core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)
